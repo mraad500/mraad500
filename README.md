@@ -1,78 +1,63 @@
 <div align="center">
-
-# Mohammed Raad
-
-### Founder of KUNARQA · iOS Software Engineer
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=22&duration=3500&pause=900&color=8B9DC3&center=true&vCenter=true&width=720&lines=Designing+technology+around+human+needs.;Building+for+attention%2C+privacy%2C+and+wellbeing.;Creating+thoughtful+native+experiences.)](https://git.io/typing-svg)
-
-> **Building human-first technology for attention, privacy, and wellbeing.**
-
-Dubai · United Arab Emirates
-
+  <br>
+  <h1>MOHAMMED RAAD</h1>
+  <h3>Founder of KUNARQA · Building technology for human nature.</h3>
+  <br>
+  <strong>HUMAN-FIRST TECHNOLOGY</strong>
+  <br><br>
+  <sub>SILM OS · AIQO · RAFIQO · KUNARQA 1</sub>
+  <br><br>
+  <a href="https://kunarqa.com">KUNARQA.COM</a>
+  <br>
 </div>
 
 ---
-
-## About
-
-I’m **Mohammed Raad**, founder of **KUNARQA** and an **iOS Software Engineer** focused on building calm, purposeful technology.
-
-My work sits at the intersection of thoughtful product design, native engineering, privacy, and digital wellbeing—turning ambitious ideas into polished experiences that respect the people using them.
-
----
-
-## Selected Projects
-
-| Project | Purpose |
-| :--- | :--- |
-| **Silm OS** | A secure, privacy-focused mobile OS architecture designed to protect attention, reduce digital noise, and give people greater control over their technology. |
-| **AiQo** | An AI-powered personal health and wellness iOS app that transforms everyday signals into clear, meaningful guidance for better wellbeing. |
-
----
-
-## Technology
-
-<div align="center">
-
-![Swift](https://img.shields.io/badge/Swift-151A24?style=for-the-badge&logo=swift&logoColor=F6A57A)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-151A24?style=for-the-badge&logo=swift&logoColor=8BB8E8)
-![UIKit](https://img.shields.io/badge/UIKit-151A24?style=for-the-badge&logo=apple&logoColor=C7D3E8)
-![iOS](https://img.shields.io/badge/iOS_Native-151A24?style=for-the-badge&logo=ios&logoColor=E7ECF4)
-![Xcode](https://img.shields.io/badge/Xcode-151A24?style=for-the-badge&logo=xcode&logoColor=8BB8E8)
-
-</div>
-
-| Focus | Approach |
-| :--- | :--- |
-| **Native iOS Engineering** | High-quality applications built with Swift, SwiftUI, and UIKit. |
-| **Product Experience** | Clear interfaces, intentional interactions, and accessible design. |
-| **Privacy by Design** | Systems that minimize exposure and respect user agency. |
-| **Digital Wellbeing** | Technology that serves human attention instead of competing for it. |
-
----
-
-## GitHub
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=mraad500&show_icons=true&hide_border=true&bg_color=00000000&title_color=8BB8E8&text_color=B9C3D3&icon_color=F6A57A&rank_icon=github" alt="Mohammed Raad's GitHub statistics" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mraad500&layout=compact&hide_border=true&bg_color=00000000&title_color=8BB8E8&text_color=B9C3D3&langs_count=6" alt="Mohammed Raad's most used languages" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-[![Website](https://img.shields.io/badge/KUNARQA-151A24?style=for-the-badge&logo=safari&logoColor=8BB8E8)](https://kunarqa.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-151A24?style=for-the-badge&logo=linkedin&logoColor=C7D3E8)](https://www.linkedin.com/in/mohammed-raad/)
-[![Instagram](https://img.shields.io/badge/Instagram-151A24?style=for-the-badge&logo=instagram&logoColor=F3A6B7)](https://www.instagram.com/m_raad_3/)
 
 <br>
 
-<sub>Thoughtful technology. Meaningful impact. Built for people.</sub>
+> We are moving beyond the attention economy—away from technology designed to consume human focus, and toward technology that respects human nature.
+>
+> KUNARQA exists to reduce digital pollution and build calm, intentional tools that return time, clarity, and agency to people.
 
+<br>
+
+### THE ECOSYSTEM
+
+| Product | Purpose |
+| :--- | :--- |
+| **Silm OS** | A calm operating system designed around intention, privacy, and digital well-being. |
+| **AiQo** | Native fitness technology that turns personal health into clear, meaningful action. |
+| **Rafiqo** | A human-centered intelligent assistant built to support thought—not replace it. |
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <h3>NATIVE BY DESIGN</h3>
+  <br>
+  <img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=FFD700" alt="Swift">
+  &nbsp;
+  <img src="https://img.shields.io/badge/SwiftUI-151A24?style=for-the-badge&logo=swift&logoColor=FFD700" alt="SwiftUI">
+  &nbsp;
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=FFD700" alt="iOS">
+  &nbsp;
+  <img src="https://img.shields.io/badge/Xcode-151A24?style=for-the-badge&logo=xcode&logoColor=FFD700" alt="Xcode">
+  <br><br>
+  <sub>Swift · SwiftUI · Native iOS</sub>
+</div>
+
+<br>
+
+---
+
+<br>
+
+<div align="center">
+  <h3>TECHNOLOGY SHOULD RETURN YOU TO YOURSELF.</h3>
+  <br>
+  <sub>DESIGNED BY MOHAMMED RAAD · KUN ARQA</sub>
+  <br><br>
 </div>
