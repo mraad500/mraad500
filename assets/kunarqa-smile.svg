@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 45" role="img" aria-labelledby="title">
+  <title id="title">KUNARQA smile</title>
+  <style>
+    .smile { stroke: #191817; }
+    @media (prefers-color-scheme: dark) {
+      .smile { stroke: #FDFAF2; }
+    }
+  </style>
+  <path
+    class="smile"
+    d="M10 12 Q50 51.04 90 12"
+    fill="none"
+    stroke-width="6"
+    stroke-linecap="round"
+  />
+</svg>
